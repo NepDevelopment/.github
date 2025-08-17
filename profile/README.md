@@ -1,6 +1,6 @@
 # Neptune Development
 
-**[PyCrypt](https://www.github.com/NepDevelopment/PyCrypt)**
+[PyCrypt](https://www.github.com/NepDevelopment/PyCrypt)
 - A python encryptor/decryptor with embedded encryption passwords with it's own encryption code to avoid easy unauthorized decryption.
 
 
